@@ -5,7 +5,11 @@ Crea un repositorio nuevo
 
 `git init`
 
+&nbsp;
+
 ------------
+
+&nbsp;
 
 ### Clonar repositorio
 
@@ -21,7 +25,11 @@ Para clonar un repositorio de GitHub
 
 `git clone https://...`
 
+&nbsp;
+
 ------------
+
+&nbsp;
 
 ### Añadir archivos y commit
 
@@ -37,7 +45,11 @@ Para hacer commit a estos cambios utiliza
 
 Ahora el archivo (o archivos) están en el HEAD, pero no en tu repositorio remoto.
 
+&nbsp;
+
 ------------
+
+&nbsp;
 
 ### Status
 
@@ -45,7 +57,11 @@ Para ver el estado de tu actual espacio de trabajo tienes que utilizar el comand
 
 `git status`
 
+&nbsp;
+
 ------------
+
+&nbsp;
 
 ### Push
 
@@ -59,7 +75,11 @@ Es posible que el repositorio no haya sido clonado. Por ejemplo, cuando se ha cr
 
 `git remote add origin SERVIDOR_REMOTO`
 
+&nbsp;
+
 ------------
+
+&nbsp;
 
 ### Ramas
 
@@ -79,8 +99,11 @@ La rama creada no estará subida al repositorio remoto hasta que no hagas push c
 
 `git push origin NOMBRE_RAMA`
 
+&nbsp;
 
 ------------
+
+&nbsp;
 
 ### Pull y merge
 
@@ -102,7 +125,11 @@ Si necesitas comopar dos ramas, utiliza:
 
 `git diff NOMBRE_RAMA1 NOMBRE_RAMA2`
 
+&nbsp;
+
 ------------
+
+&nbsp;
 
 ### Tags
 
@@ -119,7 +146,13 @@ Este id lo puedes sacar mediante
 
 o mirando en el repositorio remoto si utilizas GitHub, GitLab...
 
+&nbsp;
+
+
 ------------
+
+
+&nbsp;
 
 ### Cambios locales (por si algo sale mal)
 
@@ -137,6 +170,3 @@ Si lo que necesitas es revertir todos los cambios locales y commits, puedes trae
 
 > El git reset no es lo más recomendable pero como último recurso está bien.
 
- 
-
-###End
