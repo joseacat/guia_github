@@ -1,5 +1,10 @@
 # Guía de comandos para git
 
+![Flow](https://upload.wikimedia.org/wikipedia/commons/a/a9/OneFlow_Example.png)
+&nbsp;
+&nbsp;
+&nbsp;
+
 ### Nuevo repositorio
 Crea un repositorio nuevo 
 
