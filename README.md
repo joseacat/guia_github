@@ -39,7 +39,7 @@ Para clonar un repositorio de GitHub
 
 &nbsp;
 
-### Añadir archivos y commit
+### Añadir archivos y Commit
 
 Puedes registrar cambios (añadir al INDEX) usando
 
@@ -82,6 +82,10 @@ Tus cambios están ahora en el HEAD de tu copia local. Para enviar los cambios c
 Es posible que el repositorio no haya sido clonado. Por ejemplo, cuando se ha creado desde cero. En ese caso si quieres conectar tu repositorio local a un repositorio remoto, utiliza:
 
 `git remote add origin SERVIDOR_REMOTO`
+
+Si lo que necesitas es hacer push de tu rama actual, utiliza
+
+`git push origin NOMBRE_RAMA`
 
 &nbsp;
 
